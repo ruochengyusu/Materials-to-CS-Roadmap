@@ -1,4 +1,4 @@
-# CS-Postgraduate-408
+# CS-Learning-Notes-408
 计算机考研 408 学习路线 | 笔记整理 | 代码练习 | 备考记录
 
 ## 这个仓库用来做什么
